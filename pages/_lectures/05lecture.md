@@ -17,13 +17,6 @@ readings:
       source: New York Times Magazine
       date: Aug. 14, 2019
       author: Hannah-Jones, Nikole
-    - title: Get Back to Where You Once Belonged
-      url: https://www.thisamericanlife.org/694/get-back-to-where-you-once-belonged
-      source: WBEZ Chicago & NPR
-      notes: People looking everywhere to find a place—any place—where, for once, they don't have to be the odd man out.
-      date: Feb. 14, 2020 
-      author: This American Life
-      optional: 1
 slides:
     - title: "Race & Social Categories"
       url: https://docs.google.com/presentation/d/1990yHTsnrxxGUPH8JaZY0VZB8EVcXDSRBrqotiYWYn8/edit?usp=sharing
