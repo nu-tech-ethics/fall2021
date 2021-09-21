@@ -13,6 +13,10 @@ slides:
     title: Class Discussion
 due_date: 2021-10-05
 readings:
+  - url: https://www.youtube.com/watch?v=4i9vIj5-rxk
+    title: Technological Determinism & Social Construction of Technology
+    author: Hilbert, Martin
+    date: 2015
   - url: https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf
     title: Do Artifacts Have Politics?
     author: Winner, Langdon

@@ -3,12 +3,11 @@ layout: module
 num: 3
 title: Intro to Moral Philosophy
 type: lecture
-draft: 1
+draft: 0
 group: 1
-show_schedule: 1
-slides:
-  - url: https://docs.google.com/presentation/d/1ImPLv5aLpcFESibckwIl326bZiFhTF7WOiQAd-JShHk/edit?usp=sharing
-    title: Intro to Moral Philosophy
+# slides:
+#   - url: https://docs.google.com/presentation/d/1ImPLv5aLpcFESibckwIl326bZiFhTF7WOiQAd-JShHk/edit?usp=sharing
+#     title: Intro to Moral Philosophy
 due_date: 2021-09-28
 readings:
   - title: Chapter 1. Doing the Right Thing
@@ -31,9 +30,9 @@ readings:
 
 
 ---
-
+<!-- 
 ## Activities
 Analyze a case study:
 1. <a href="https://docs.google.com/document/d/1_8m0PR24a5cFwMikdUq1b1PE_50qJkI71-eoulT5_f0/edit" target="_blank">Case 1</a>: Social media monitoring & school safety
 2. <a href="https://docs.google.com/document/d/1O8vcsi99lqE-IxzNriu0zCN5tP42txZq_q1-zsc2FSI/edit" target="_blank">Case 2</a>: Identifying white nationalists in charlottesville
-
+ -->

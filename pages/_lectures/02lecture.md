@@ -3,7 +3,7 @@ layout: module
 num: 2
 title: The Social Psychology of Morality
 type: lecture
-draft: 1
+draft: 0
 group: 1
 due_date: 2021-09-23
 # slides:
@@ -26,3 +26,4 @@ readings:
     date: 2008
 
 ---
+

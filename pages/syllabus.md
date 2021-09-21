@@ -8,7 +8,7 @@ professor: Sarah Van Wart
 pms: Divyanshi Sharma & Alexandra Roumeliotis
 ta: Ayse Hunt (with help from Natalie Melo)
 class_time: Tuesdays and Thursdays, 11:00am - 12:20pm
-class_location: TBD
+class_location: Technological Institute M345
 include_covid_statement: 1
 ---
 
