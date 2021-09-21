@@ -24,5 +24,5 @@ What do you think? Can technology help us be less biased and more fair?
 
 ...and if you have time (optional), what do you think Ruha Benjamin would say to the "we can make the algorithms more fair" assertion?
 
-When you’re done, paste your response from the Google Doc into the <a href="https://canvas.northwestern.edu/courses/130544/assignments/853478">Canvas Assignment</a>.
+When you’re done, paste your response from the Google Doc into the Canvas Assignment.
 

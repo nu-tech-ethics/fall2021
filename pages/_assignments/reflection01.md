@@ -1,5 +1,5 @@
 ---
-layout: assignment
+layout: assignment-two-column
 title: "Discussion 1"
 abbreviation: Discussion 1
 # external_url: https://canvas.northwestern.edu/courses/130544/discussion_topics/880164
@@ -7,10 +7,10 @@ type: response
 due_date: 2021-09-23
 due_time: 2PM
 ordering: 1
-draft: 1
+draft: 0
 ---
 
-On <a href="https://canvas.northwestern.edu/courses/130544/discussion_topics/880164">Canvas</a>, please respond to today's readings (Pinker, Singer, Haidt). As stated in the syllabus, responses should be around 200-400 words in length (give or take), and your grade will be based on evidence that you did the readings. Some approaches that you could take include (but are not limited to):
+On Canvas, please respond to [today's readings](../lectures/02lecture) (Pinker, Singer, Haidt). As stated in the syllabus, responses should be around 200-400 words in length (give or take), and your grade will be based on evidence that you did the readings. Some approaches that you could take include (but are not limited to):
 
 * Summarizing one or more key arguments and whether / how these arguments resonate with you.
 * Analyzing some of the strengths or weaknesses of the article(s).
