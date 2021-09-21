@@ -11,5 +11,5 @@ draft: 0
 On Canvas, please respond to today's prompt:
 
 * Why are you taking this class?
-* Why do you think it's important to study the ethics within computer science?
+* Why do you think it's important to study ethics within computer science?
 
