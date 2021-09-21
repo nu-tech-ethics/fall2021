@@ -6,7 +6,7 @@ permalink: /syllabus/
 course: "CS396: Computing, Ethics, and Society"
 professor: Sarah Van Wart
 pms: Divyanshi Sharma & Alexandra Roumeliotis
-ta: Ayse Hunt
+ta: Ayse Hunt (with help from Natalie Melo)
 class_time: Tuesdays and Thursdays, 11:00am - 12:20pm
 class_location: TBD
 include_covid_statement: 1
@@ -36,12 +36,14 @@ The course format will consist of:
 ## Required Texts
 We will be reading chapters from several different books (in Chronological Order):
 
-* Sandel, M. (2010). <a href="https://www.amazon.com/Justice-Whats-Right-Thing-Do/dp/0374532508">Justice: What's the Right Thing to Do?</a>. Farrar, Straus and Giroux.
+1. Sandel, M. (2010). <a href="https://www.amazon.com/Justice-Whats-Right-Thing-Do/dp/0374532508">Justice: What's the Right Thing to Do?</a>. Farrar, Straus and Giroux.
     * You will need to purchase this book, as it is not available in the NU Library. That said, I have made the introduction available on Canvas.
-* Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
+2. Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
     * You may purchase it (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Northwestern Library</a>.
-* Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. Available through Northwestern's JSTOR access (and on Canvas for your convenience).
-
+3. Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. 
+    * Available through Northwestern's JSTOR access (and on Canvas for your convenience).
+4. Costanza-Chock, Sasha (2020). <a href="https://design-justice.pubpub.org/" target="_blank">Design Justice</a>. The MIT Press.
+    * Open access (yay!)
 
 ## Course Format & Grading
 The course format will consist of:
