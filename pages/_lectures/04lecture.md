@@ -11,7 +11,7 @@ show_schedule: 1
 #     title: Intro to Moral Philosophy
 due_date: 2021-09-30
 readings:
-  - title: Chapter 9. What do we owe one another? / Dilemmas of Loyalty
+  - title: Chapter 9. What do we owe one another?
     author: Sandel, Michael J.
     date: 2009
   - title: Chapter 6. Rawles
