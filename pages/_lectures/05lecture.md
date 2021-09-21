@@ -1,25 +1,29 @@
 ---
 layout: module
-num: 5
-title: Race & Social Categories
+num: 4
+title: Do Artifacts Have Politics?
 type: lecture
+details: 
+    - How are stereotypes and problematic notions of people, places, and communities "baked in" to computing technologies, and what are some examples of this?
+    - How can computing technologies exacerbate, reify, disrupt these ideas?
 draft: 1
-show_schedule: 1
 group: 2
+slides:
+  - url: https://docs.google.com/presentation/d/1MJ0HleIVOtRmjIXP_qh7yxn4cUsxZ9StRGUocwxqeNo/edit?usp=sharing
+    title: Class Discussion
 due_date: 2021-10-05
 readings:
-    - title: Chapter 1. Engineered Inequity
-      author: Benjamin, Ruha
-      source: "Race After Technology"
-      date: 2019
-    - title: The Idea of America
-      url: https://canvas.northwestern.edu/files/10274358/download?download_frd=1
-      source: New York Times Magazine
-      date: Aug. 14, 2019
-      author: Hannah-Jones, Nikole
-slides:
-    - title: "Race & Social Categories"
-      url: https://docs.google.com/presentation/d/1990yHTsnrxxGUPH8JaZY0VZB8EVcXDSRBrqotiYWYn8/edit?usp=sharing
+  - url: https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf
+    title: Do Artifacts Have Politics?
+    author: Winner, Langdon
+    date: 1980
+    source: Daedalus
+  - title: Introduction
+    url: https://canvas.northwestern.edu/files/10369235/download?download_frd=1
+    author: Benjamin, Ruha
+    source: "Race After Technology"
+    date: 2019
+    notes: Only the introduction is available on Canvas. Please see syllabus for access options for the remaining chapters.
 ---
 
-Today we will be presenting our HW1 (Philosophy and the News) to one another, and considering some themes from Hannah-Jones's "Idea of America."
+Introduction to STS; theories of technology and society.

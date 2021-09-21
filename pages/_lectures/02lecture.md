@@ -1,22 +1,21 @@
 ---
 layout: module
 num: 2
-title: Humans & Morality
+title: The Social Psychology of Morality
 type: lecture
 draft: 1
-show_schedule: 1
 group: 1
-slides:
-  - url: https://docs.google.com/presentation/d/1aD9QFwiAi2p9lm1cq03m6Cey7eVqRnkXJYfTj-LT_J8/edit?usp=sharing
-    title: The Science of Morality
 due_date: 2021-09-23
+# slides:
+#   - url: https://docs.google.com/presentation/d/1aD9QFwiAi2p9lm1cq03m6Cey7eVqRnkXJYfTj-LT_J8/edit?usp=sharing
+#     title: The Science of Morality
 readings:
   - title: The Moral Instinct
-    url: https://canvas.northwestern.edu/files/10274342/download?download_frd=1
+    url: https://canvas.northwestern.edu/files/11895867/download?download_frd=1
     author: Pinker
     date: 2008
   - title: The Singer Solution to World Poverty
-    url: https://canvas.northwestern.edu/files/10274347/download?download_frd=1
+    url: https://canvas.northwestern.edu/files/11895899/download?download_frd=1
     author: Singer, P.
     date: 1999
     source: New York Times Magazine

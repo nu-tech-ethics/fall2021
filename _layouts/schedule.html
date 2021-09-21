@@ -24,11 +24,13 @@ layout: default
         {% endif %}
         <h2>
             {% if lecture.group == 1 %}
-                I. Morality, Ethics, & Human Values
+                I. Morality & Justice
             {% elsif lecture.group == 2 %}
                 II. Theories of Technology & Society
+            {% elsif lecture.group == 3 %}
+                III. Seeing Ethics & Politics in “Everyday” Computing Technologies
             {% else %} 
-                III. Computing Infrastructures
+                IV. CS + X
             {% endif %}
         </h2>
         <table>

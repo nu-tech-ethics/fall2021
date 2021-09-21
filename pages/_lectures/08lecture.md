@@ -1,29 +1,21 @@
 ---
 layout: module
-num: 8
-title: |
-    Surveillance: Part 1
+num: 4
+title: Categorization & Classification (Continued)
 type: lecture
-show_schedule: 1
-details: 
-    - What are some of the consequences of the widespread use of tracking and surveilance techologies?
-    - What are some of the ways in which vulnerable groups are differentially impacted?
 draft: 1
 group: 2
 due_date: 2021-10-14
-slides:
-    - url: https://docs.google.com/presentation/d/1w09bNWZxF9FUWyz7UrbCc5vjjfP8It8LhsStpVG0BBQ/edit?usp=sharing
-      title: "Surveillance & Exposure"
 readings:
-    - title: Chapter 3. Coded Exposure
-      author: Benjamin, Ruha
-      source: "Race After Technology"
-      date: 2019
-    - title: Nosedive, Season 3, Episode 1
-      author: Black Mirror
-      date: Oct. 21, 2016
-      source: Netflix
-      notes: If you don't have Netflix, you can purchase it for $1.99 on Amazon
+    - title: The Idea of America
+      url: https://canvas.northwestern.edu/files/10274358/download?download_frd=1
+      source: New York Times Magazine
+      date: Aug. 14, 2019
+      author: Hannah-Jones, Nikole
+
 ---
 
+Sweetgrass: Human / non-human; 
+1619 Project; Colonialism. 
+How have women, black people, land, animals been propertized. Who is controlling this narrative that these categories are property?
 
