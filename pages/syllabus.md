@@ -68,7 +68,7 @@ Some approaches that you could take include (but are not limited to):
 * Sharing thoughts about how the readings connect to other readings we've done, or to current events going on in the world.
 * Sharing thoughts on what you would like to learn about in more detail.
 
-In addition to writing your own responses, you will respond to at least **two** of your classmates' posts per week. Both your writing response and your responses to your classmates should be submitted **before class (2PM) on the day it is due**. You may miss one reading response during the quarter without a grade penalty.
+In addition to writing your own responses, you will respond to at least **two** of your classmates' posts per week. Both your writing response and your responses to your classmates should be submitted **before class (11AM) on the day it is due**. You may miss one reading response during the quarter without a grade penalty.
 
 #### Identity Journal
 
