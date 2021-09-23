@@ -1,14 +1,14 @@
 ---
 layout: module
 num: 2
-title: The Social Psychology of Morality
+title: The Science of Morality
 type: lecture
 draft: 0
 group: 1
 due_date: 2021-09-23
-# slides:
-#   - url: https://docs.google.com/presentation/d/1aD9QFwiAi2p9lm1cq03m6Cey7eVqRnkXJYfTj-LT_J8/edit?usp=sharing
-#     title: The Science of Morality
+slides:
+  - url: https://docs.google.com/presentation/d/1weWuhTyeIeMnr6nHFtLQM6G-aJSdZ_JSicSgMefMEcg/edit?usp=sharing
+    title: The Science of Morality
 readings:
   - title: The Moral Instinct
     url: https://canvas.northwestern.edu/files/11895867/download?download_frd=1
