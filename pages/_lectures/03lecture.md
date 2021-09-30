@@ -37,7 +37,7 @@ A note on the Sandel book: the NU library does not have a copy of this book, so 
 ### Activity 1: Cheatsheets
 Create a <a href="https://docs.google.com/document/d/1lHyFssnZBVTwwatslEH6O9NXrDteUz4IrMUxZCHzp1U/edit?usp=sharing" target="_blank">philosophy cheatsheet</a>.
 
-1. Split up into groups of 3-5 people who read the same chapter you did (either Ch, 2, 3, or 5).
+1. Split up into groups of 3-5 people who read the same chapter you did (either Ch. 2, 3, or 5).
 2. Make a copy of the Google Doc above (1 per group).
 3. Everyone in the group: please put your name on the doc at the top.
 4. Answer the questions as best you can (given that we'll only have 10-15 minutes to work on it).
