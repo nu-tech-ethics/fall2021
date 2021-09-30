@@ -30,6 +30,7 @@ readings:
 
 
 ---
+A note on the Sandel book: the NU library does not have a copy of this book, so you will have to buy it. This will be the only book you have to buy in this class.
 
 ## Activities
 

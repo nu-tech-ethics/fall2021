@@ -1,9 +1,9 @@
 ---
 layout: module
-num: 3
+num: 4
 title: Intro to Moral Philosophy (Continued)
 type: lecture
-draft: 1
+draft: 0
 group: 1
 show_schedule: 1
 # slides:
@@ -26,8 +26,7 @@ readings:
 
 ---
 
-## Activities
-Analyze a case study:
-1. <a href="https://docs.google.com/document/d/1_8m0PR24a5cFwMikdUq1b1PE_50qJkI71-eoulT5_f0/edit" target="_blank">Case 1</a>: Social media monitoring & school safety
-2. <a href="https://docs.google.com/document/d/1O8vcsi99lqE-IxzNriu0zCN5tP42txZq_q1-zsc2FSI/edit" target="_blank">Case 2</a>: Identifying white nationalists in charlottesville
+A note on the Sandel book: the NU library does not have a copy of this book, so you will have to buy it. This will be the only book you have to buy in this class.
+
+
 

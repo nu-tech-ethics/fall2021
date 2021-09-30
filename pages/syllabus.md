@@ -18,7 +18,7 @@ Computing technologies shape our personal, social, and political lives in increa
 
 At the same time, these technologies are born and shaped by the societies in which they are developed. Thus, grappling with the ethics of technologies (i.e considering the harms and benefits, how and why they were created in the first place, and how and to what ends they are used) is important not only for ultimately creating more moral technologies but a more moral society. Thus, our approach to the ethics of computing technologies requires a multifaceted assessment of their harm and benefit to our individual, cultural, and political lives, and simultaneously a critical examination of the values, ideologies, and contexts through which computing technologies emerge. 
 
-To accomplish this, we will engage in critical reading and synthesizing across a range of topics drawn from computer science and HCI, education and learning sciences, as well as ethics and philosophy. These readings and ideas will help us to:
+To accomplish this, we will engage in critical reading across a range of topics drawn from computer science and HCI, education and learning sciences, as well as ethics and philosophy. These readings and ideas will help us to:
 
 1. Recognize the value judgements and subjectivities that undergird a wide variety of technical practices (e.g. sampling, data collection practices, categorization and classification, prediction, system design, etc.).
 1. Examine the design choices and tradeoffs that various computing infrastructures make (and have made) in relation to important societal values (e.g. individual autonomy, free speech, equity, privacy, justice, security, access to opportunity, etc.).
