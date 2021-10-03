@@ -6,11 +6,11 @@ type: lecture
 details: 
     - How are stereotypes and problematic notions of people, places, and communities "baked in" to computing technologies, and what are some examples of this?
     - How can computing technologies exacerbate, reify, disrupt these ideas?
-draft: 1
+draft: 0
 group: 2
-slides:
-  - url: https://docs.google.com/presentation/d/1MJ0HleIVOtRmjIXP_qh7yxn4cUsxZ9StRGUocwxqeNo/edit?usp=sharing
-    title: Class Discussion
+# slides:
+#   - url: ""
+#     title: Class Discussion
 due_date: 2021-10-05
 readings:
   - url: https://www.youtube.com/watch?v=4i9vIj5-rxk
@@ -23,11 +23,10 @@ readings:
     date: 1980
     source: Daedalus
   - title: Introduction
-    url: https://canvas.northwestern.edu/files/10369235/download?download_frd=1
+    url: https://canvas.northwestern.edu/files/11895866/download?download_frd=1
     author: Benjamin, Ruha
     source: "Race After Technology"
     date: 2019
-    notes: Only the introduction is available on Canvas. Please see syllabus for access options for the remaining chapters.
+    notes: Only the introduction is available on Canvas. You may purchase the entire book (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Northwestern Library</a>.
 ---
 
-Introduction to STS; theories of technology and society.
