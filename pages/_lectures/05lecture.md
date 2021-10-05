@@ -1,6 +1,6 @@
 ---
 layout: module
-num: 4
+num: 5
 title: Do Artifacts Have Politics?
 type: lecture
 details: 
@@ -8,9 +8,9 @@ details:
     - How can computing technologies exacerbate, reify, disrupt these ideas?
 draft: 0
 group: 2
-# slides:
-#   - url: ""
-#     title: Class Discussion
+slides:
+  - url: https://docs.google.com/presentation/d/1d58Yz47eqSZS3pfM_y2S2ejeoaVkx4BWShyS1w6wnUg/edit?usp=sharing
+    title: Class Discussion
 due_date: 2021-10-05
 readings:
   - url: https://www.youtube.com/watch?v=4i9vIj5-rxk

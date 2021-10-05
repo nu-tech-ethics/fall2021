@@ -1,6 +1,6 @@
 ---
 layout: module
-num: 4
+num: 10
 title: Solutionism / Technological Benevolence
 type: lecture
 draft: 1

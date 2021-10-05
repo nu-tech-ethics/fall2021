@@ -1,6 +1,6 @@
 ---
 layout: module
-num: 4
+num: 9
 title: Privacy / Surveillance
 type: lecture
 draft: 1

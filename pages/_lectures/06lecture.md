@@ -1,6 +1,6 @@
 ---
 layout: module
-num: 4
+num: 6
 title: Democratization or Centralization?
 type: lecture
 draft: 0

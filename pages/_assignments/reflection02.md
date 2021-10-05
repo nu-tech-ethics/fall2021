@@ -6,22 +6,14 @@ type: response
 due_date: 2021-09-30
 due_time: 2PM
 ordering: 1
-draft: 1
+draft: 0
 ---
+On Canvas, please respond to [today's readings](../lectures/04lecture) (Ch. 6, 8, & 9 of Sandel). As stated in the syllabus, responses should be around 200-400 words in length (give or take), and your grade will be based on evidence that you did the readings. Some approaches that you could take include (but are not limited to):
 
-On <a href="https://canvas.northwestern.edu/courses/130544/discussion_topics/883993" target="_blank">Canvas</a>, please respond to one of the following prompts:
+* Summarizing one or more key arguments and whether / how these arguments resonate with you.
+* Analyzing some of the strengths or weaknesses of the article(s).
+* Writing about an idea you were confused about and/or didn’t entirely understand (and what about them was confusing / ambiguous).
+* Sharing thoughts about how the readings connect to other readings we’ve done, to current events going on in the world, or to an experience that you've had.
+* Sharing thoughts on what you would like to learn about in more detail.
 
-## Option 1: Winner
-
-{:.blockquote-no-margin}
-> "Artifacts don’t have politics. People do."
-
-How would Winner respond to this statement? Use a specific technological example from the reading to make your case.
-
-## Option 2: Benjamin
-Consider the following quote from Benjamin:
-
-{:.blockquote-no-margin}
-> "...the desire for objectivity, efficiency, profitability, and progress fuels the pursuit of technical fixes across many different social arenas" (p. 7)
-
-Given three of the values named above -- objectivity, efficiency, and progress -- pick one and define it in your own words. Then, think of an example of a technical fix was pursued in the name of **objectivity/efficiency/progress** (whichever value you chose) that ended up under/devaluing something else -- something that was perhaps even more important. Tell us about it.
+When you're done, you will respond to at least two of your classmates’ posts.

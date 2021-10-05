@@ -5,17 +5,14 @@ abbreviation: Journal 3
 type: identity
 due_date: 2021-10-05
 ordering: 1
-draft: 1
+draft: 0
 ---
 
-Please respond to today's prompt:
-
+Consider the following quote from Benjamin:
 
 {:.blockquote-no-margin}
-> "But it would be historically inaccurate to reduce the contributions of black people to the vast material wealth created by our bondage. Black Americans have also been, and continue to be, foundational to the idea of American freedom.” (Hannah-Jones, p. 4)
+> “...the desire for objectivity, efficiency, profitability, and progress fuels the pursuit of technical fixes across many different social arenas” (p. 7)
 
-* What does Nikole Hannah-Jones mean by this? 
-* How have human rights struggles of the past – in the US or in your own regional context – shaped your rights and freedoms?  Be sure to attend to the specific people / groups who engaged in these struggles.
+Given three of the values named above -- objectivity, efficiency, and progress -- pick one and define it in your own words. Then, think of an example of a technical fix was pursued in the name of objectivity/efficiency/progress (whichever value you chose) that ended up under/devaluing something else -- something that was perhaps even more important. Tell us about it.
 
-When you're done, paste your response from the Google Doc into the <a href="https://canvas.northwestern.edu/courses/130544/assignments/849280/">Canvas Assignment</a>.
-
+When you're done, paste your response from the Google Doc into the <a href="https://canvas.northwestern.edu/courses/149914/assignments/965499">Canvas Assignment</a>.

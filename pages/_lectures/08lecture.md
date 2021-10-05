@@ -1,6 +1,6 @@
 ---
 layout: module
-num: 4
+num: 8
 title: Categorization & Classification (Continued)
 type: lecture
 draft: 1
