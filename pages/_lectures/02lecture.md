@@ -5,6 +5,7 @@ title: The Science of Morality
 type: lecture
 draft: 0
 group: 1
+show_schedule: 1
 due_date: 2021-09-23
 slides:
   - url: https://docs.google.com/presentation/d/1weWuhTyeIeMnr6nHFtLQM6G-aJSdZ_JSicSgMefMEcg/edit?usp=sharing

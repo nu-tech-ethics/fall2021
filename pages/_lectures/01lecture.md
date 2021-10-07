@@ -5,6 +5,7 @@ title: Introduction
 type: lecture
 draft: 0
 group: 1
+show_schedule: 1
 slides:
   - url: https://docs.google.com/presentation/d/1uCSJStt8eFcVEalGa8GS2GbPS2PDGhmYu5D-RmS9ufE/edit?usp=sharing
     title: Intro to the Course

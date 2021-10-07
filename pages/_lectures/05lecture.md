@@ -8,6 +8,7 @@ details:
     - How can computing technologies exacerbate, reify, disrupt these ideas?
 draft: 0
 group: 2
+show_schedule: 1
 slides:
   - url: https://docs.google.com/presentation/d/1d58Yz47eqSZS3pfM_y2S2ejeoaVkx4BWShyS1w6wnUg/edit?usp=sharing
     title: Class Discussion
