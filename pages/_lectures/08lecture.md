@@ -8,7 +8,7 @@ group: 2
 due_date: 2021-10-14
 readings:
     - title: The Idea of America
-      url: https://canvas.northwestern.edu/files/10274358/download?download_frd=1
+      url: https://canvas.northwestern.edu/files/11895868/download?download_frd=1
       source: New York Times Magazine
       date: Aug. 14, 2019
       author: Hannah-Jones, Nikole
