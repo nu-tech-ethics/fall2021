@@ -11,7 +11,7 @@ readings:
       author: Massey, Douglas
       date: 2007
       source: "Categorically unequal: The American stratification system"
-      url: https://canvas.northwestern.edu/files/10339369/download?download_frd=1
+      url: https://canvas.northwestern.edu/files/11895874/download?download_frd=1
     - title: Chapter 1. Engineered Inequity
       author: Benjamin, Ruha
       source: "Race After Technology"
