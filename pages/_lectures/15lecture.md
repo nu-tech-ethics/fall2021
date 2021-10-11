@@ -1,7 +1,7 @@
 ---
 layout: lecture-two-column
 num: 10
-title: Design (Continued)
+title: Design
 type: lecture
 draft: 1
 group: 3

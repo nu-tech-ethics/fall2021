@@ -1,7 +1,7 @@
 ---
 layout: lecture-two-column
 num: 10
-title: Design
+title: Algorithms
 type: lecture
 draft: 1
 group: 3

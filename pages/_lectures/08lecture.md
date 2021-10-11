@@ -3,7 +3,7 @@ layout: module
 num: 8
 title: Categorization & Classification (Continued)
 type: lecture
-draft: 1
+draft: 0
 group: 2
 due_date: 2021-10-14
 readings:
@@ -12,10 +12,15 @@ readings:
       source: New York Times Magazine
       date: Aug. 14, 2019
       author: Hannah-Jones, Nikole
+    - title: Social Constructs (YouTube Video)
+      url: https://www.youtube.com/watch?v=koud7hgGyQ8
+      source: Philosophy Tube
+      author: "Thorn, Abigail"
+      date: July, 2021
 
 ---
 
-Sweetgrass: Human / non-human; 
+<!-- Sweetgrass: Human / non-human; 
 1619 Project; Colonialism. 
-How have women, black people, land, animals been propertized. Who is controlling this narrative that these categories are property?
+How have women, black people, land, animals been propertized. Who is controlling this narrative that these categories are property? -->
 

@@ -6,12 +6,18 @@ type: lecture
 draft: 1
 group: 3
 due_date: 2021-10-21
-# readings:
-#     - title: "Provocations for big data: Provocations for a cultural, technological, and scholarly phenomenon"
-#       url: https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878
-#       authors: boyd, danah and Crawford, Kate 
-#       source: "Information, Communication & Society"
-#       date: May, 2012
+readings:
+    - title: Chapter 3. Data
+      url: https://canvas.northwestern.edu/files/12037389/download?download_frd=1
+      source: Atlas of AI
+      author: Crawford, Kate 
+      date: 2021
+    - title: "Provocations for big data: Provocations for a cultural, technological, and scholarly phenomenon"
+      url: https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878
+      authors: boyd, danah and Crawford, Kate 
+      source: "Information, Communication & Society"
+      date: May, 2012
+      optional: 1
 ---
 
 Ideas to cover: 

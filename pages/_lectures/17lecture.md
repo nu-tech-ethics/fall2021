@@ -1,7 +1,7 @@
 ---
 layout: lecture-two-column
 num: 10
-title: Business Models
+title: The Environment
 type: lecture
 draft: 1
 group: 4
