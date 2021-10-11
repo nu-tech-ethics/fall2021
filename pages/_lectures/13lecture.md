@@ -1,10 +1,11 @@
 ---
 layout: lecture-two-column
-num: 10
+num: 13
 title: "Platforms: with guest speaker Deepa Seetharaman from the Wall Street Journal"
 type: lecture
 draft: 1
 group: 3
+show_schedule: 1
 due_date: 2021-10-28
 readings:
     - title: "The Facebook Files (Pick 2 to Read)"

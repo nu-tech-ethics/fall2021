@@ -4,6 +4,7 @@ num: 10
 title: Solutionism / Technological Benevolence
 type: lecture
 draft: 1
+show_schedule: 1
 group: 2
 due_date: 2021-10-19
 readings:

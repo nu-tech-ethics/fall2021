@@ -24,8 +24,10 @@
     </ul>
 {% endif %}
 
-{% if optional == 1 %}
+{% if optional == 1 and hide_optional == null %}
     <div class="optional-readings">Recommended (Optional)</div>
+    {{hide_optional}}
+
     <ul class="readings">
     {% for item in page.readings %}
         {% if item.optional == 1 %}

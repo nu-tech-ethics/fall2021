@@ -1,9 +1,10 @@
 ---
 layout: lecture-two-column
-num: 10
+num: 11
 title: "Data"
 type: lecture
 draft: 1
+show_schedule: 1
 group: 3
 due_date: 2021-10-21
 readings:

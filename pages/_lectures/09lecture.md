@@ -6,6 +6,7 @@ type: lecture
 draft: 1
 group: 2
 due_date: 2021-10-19
+show_schedule: 1
 # slides:
 #     - url: https://docs.google.com/presentation/d/1w09bNWZxF9FUWyz7UrbCc5vjjfP8It8LhsStpVG0BBQ/edit?usp=sharing
 #       title: "Surveillance & Exposure"

@@ -1,10 +1,11 @@
 ---
 layout: lecture-two-column
-num: 10
+num: 12
 title: "The Internet"
 type: lecture
 draft: 1
 group: 3
+show_schedule: 1
 due_date: 2021-10-26
 readings:
     - url: https://cacm.acm.org/magazines/2021/10/255710-competitive-compatibility/fulltext

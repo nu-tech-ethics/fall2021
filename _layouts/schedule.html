@@ -80,6 +80,7 @@ layout: default
 
                 {% if lecture.readings %}
                     {% assign page = lecture %}
+                    {% assign hide_optional = 1 %}
                     {% include page_readings.html %} 
                 {% endif %}
             </td>

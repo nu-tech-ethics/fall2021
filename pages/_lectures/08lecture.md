@@ -4,6 +4,7 @@ num: 8
 title: Categorization & Classification (Continued)
 type: lecture
 draft: 0
+show_schedule: 1
 group: 2
 due_date: 2021-10-14
 readings:
@@ -12,11 +13,10 @@ readings:
       source: New York Times Magazine
       date: Aug. 14, 2019
       author: Hannah-Jones, Nikole
-    - title: Social Constructs (YouTube Video)
-      url: https://www.youtube.com/watch?v=koud7hgGyQ8
-      source: Philosophy Tube
-      author: "Thorn, Abigail"
-      date: July, 2021
+    - title: Chapter 1. Engineered Inequity
+      author: Benjamin, Ruha
+      source: "Race After Technology"
+      date: 2019
 
 ---
 
