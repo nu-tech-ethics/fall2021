@@ -14,5 +14,5 @@ Pick an identity category that others tend to associate with you. It could be so
 * How much control do you have over the construction and circulation of these ideas?
 * Do you think these representations have an impact on you? Share as much detail as you feel comfortable.
 
-When you’re done, paste your response from the Google Doc into the <a href="https://canvas.northwestern.edu/courses/130544/assignments/851417">Canvas Assignment</a>.
+When you’re done, paste your response from the Google Doc into the <a href="https://canvas.northwestern.edu/courses/149914/assignments/938022">Canvas Assignment</a>.
 

@@ -3,7 +3,7 @@ layout: module
 num: 10
 title: "Solutionism / Technological Benevolence with Natalie Melo"
 type: lecture
-draft: 1
+draft: 0
 show_schedule: 1
 group: 2
 due_date: 2021-10-21
@@ -29,5 +29,5 @@ readings:
       optional: 1
 ---
 
-TBD
+
 
