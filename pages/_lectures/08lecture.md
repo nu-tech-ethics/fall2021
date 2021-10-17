@@ -1,26 +1,43 @@
 ---
 layout: module
 num: 8
-title: Categorization & Classification (Continued)
+title: Categorization & Classification
 type: lecture
 draft: 0
 show_schedule: 1
 group: 2
 due_date: 2021-10-14
 readings:
-    - title: The Idea of America
-      url: https://canvas.northwestern.edu/files/11895868/download?download_frd=1
-      source: New York Times Magazine
-      date: Aug. 14, 2019
-      author: Hannah-Jones, Nikole
-    - title: Chapter 1. Engineered Inequity
-      author: Benjamin, Ruha
-      source: "Race After Technology"
-      date: 2019
-
+    - title: Chapter 1. How Stratification Works
+      author: Massey, Douglas
+      date: 2007
+      source: "Categorically unequal: The American stratification system"
+      url: https://canvas.northwestern.edu/files/11895874/download?download_frd=1
+    - title: Social Constructs (YouTube Video)
+      url: https://www.youtube.com/watch?v=koud7hgGyQ8
+      source: Philosophy Tube
+      author: "Thorn, Abigail"
+      date: July, 2021
+      notes: "<strong>Update</strong>: On 10/8, I swapped this video with Benjamin, Ch. 1 (which was moved to Thursday). Apologies for the last minute switcheroo!"
+    - title: Chapter 4. Classification
+      url: https://canvas.northwestern.edu/files/12037388/download?download_frd=1
+      source: Atlas of AI
+      author: Crawford, Kate 
+      date: 2021
+      optional: 1
+    - title: "Sorting things out: Classification and its consequences. Introduction"
+      author: Bowker & Star
+      url: https://canvas.northwestern.edu/files/11895869/download?download_frd=1
+      date: 1998
+      source: MIT Press
+      optional: 1
+      
 ---
 
-<!-- Sweetgrass: Human / non-human; 
-1619 Project; Colonialism. 
-How have women, black people, land, animals been propertized. Who is controlling this narrative that these categories are property? -->
+Today in class, you will be discussing your "Philosophy in the News" papers in small groups. Specifically, you will:
+
+* Break into groups of 3
+* 3 minutes to share your idea, 2 minutes for feedback, questions and discussion
+* Please appoint a timekeeper
+* Be ready to share out something you talked about in your group 
 

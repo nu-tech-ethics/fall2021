@@ -1,12 +1,12 @@
 ---
 layout: module
 num: 10
-title: Solutionism / Technological Benevolence
+title: "Solutionism / Technological Benevolence with Natalie Melo"
 type: lecture
 draft: 1
 show_schedule: 1
 group: 2
-due_date: 2021-10-19
+due_date: 2021-10-21
 readings:
     - title: Chapter 4. Technological Benevolence
       author: Benjamin, Ruha

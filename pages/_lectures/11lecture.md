@@ -1,54 +1,27 @@
 ---
-layout: lecture-two-column
+layout: module
 num: 11
-title: "Data"
+title: Privacy / Surveillance
 type: lecture
 draft: 1
-show_schedule: 1
 group: 3
-due_date: 2021-10-21
+due_date: 2021-10-26
+show_schedule: 1
+# slides:
+#     - url: https://docs.google.com/presentation/d/1w09bNWZxF9FUWyz7UrbCc5vjjfP8It8LhsStpVG0BBQ/edit?usp=sharing
+#       title: "Surveillance & Exposure"
 readings:
-    - title: Chapter 3. Data
-      url: https://canvas.northwestern.edu/files/12037389/download?download_frd=1
-      source: Atlas of AI
-      author: Crawford, Kate 
-      date: 2021
-    - title: "Provocations for big data: Provocations for a cultural, technological, and scholarly phenomenon"
-      url: https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878
-      authors: boyd, danah and Crawford, Kate 
-      source: "Information, Communication & Society"
-      date: May, 2012
-      optional: 1
+    - title: Chapter 3. Coded Exposure
+      author: Benjamin, Ruha
+      source: "Race After Technology"
+      date: 2019
+    - title: Nosedive, Season 3, Episode 1
+      author: Black Mirror
+      date: Oct. 21, 2016
+      source: Netflix
+      notes: If you don't have Netflix, you can purchase it for $1.99 on Amazon
+
 ---
 
-Ideas to cover: 
-## Databases
-* Why are they useful? 
-* It used to be the case that...
-   * Databases were only to organize information (a way to store, retrieve, archive, version, document, info). 
-   * Ask questions of the data. Tax info, HR databases (hiring, etc.), recipients of public services, geodatabases of protected lands and habitats, genome databases, etc. Stores used them to track inventory.
+TBD
 
-## Databases & Ideology
-There's a common trope of "from data -> information -> knowledge" but many scholars (including Benjamin) have critiqued this notion. A databases is theory of the world, given the things you need to / hope to do with empirical information that you’re collecting. As such, **people** decide which features are worth collecting based on the use cases. All data is constructed in a particular context with a particular goal in mind. And with those decisions come judgement calls, which are made by the creator:
-* How you sample
-* The features you collect
-* The conclusions you draw
-
-## What’s new in an era of big data? 
-### Data Collection
-* Pervasiveness and ubiquity of da: size, scale, and types (personal) of data that are being collected
-* New opportunities for data collection
-    * Third party cookies, clicking and browsing history, reading your email, platform trackers: https://www.nytimes.com/2017/07/03/smarter-living/how-to-see-what-the-internet-knows-about-you.html 
-    * Sensors
-    * Video cameras everywhere
-    * Intercepting communication transmission; cellphone logs
-* **Speed:** Databases are getting built and processed in real-time
-
-### Replication and Aggregation
-* Databases are being copied, replicated, and remixed over the internet.
-* Disparate data sources being stitched together, bought and sold, reprocessed, etc.
-
-### New Statistical and Computational Methods
-New computational methods on a range of new data sources have powered many new types of applications:
-    * Widespread use of statistics and data-driven algorithmic methods (ML) over user-generated data at an unprecedented size and a scale
-    * From mostly descriptive to leveraging correlations to derive features, classify entities, and make predictions about behavior: ML / Data Science
