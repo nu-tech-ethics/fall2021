@@ -7,6 +7,9 @@ draft: 0
 show_schedule: 1
 group: 2
 due_date: 2021-10-19
+slides: 
+    - title: Categorization & Classification (Continued)
+      url: https://docs.google.com/presentation/d/1Zktec5w_8JwxcnNG_Y2_WcmAWN6wLFPw-9wNtoBQkQw/edit?usp=sharing
 readings:
     - title: The Idea of America
       url: https://canvas.northwestern.edu/files/11895868/download?download_frd=1

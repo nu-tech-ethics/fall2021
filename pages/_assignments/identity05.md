@@ -5,7 +5,7 @@ abbreviation: Journal 5
 type: identity
 due_date: 2021-10-19
 ordering: 1
-draft: 1
+draft: 0
 ---
 
 Pick an identity category that others tend to associate with you. It could be something related to race, gender, ethnicity, nationality, ability, sexual orientation, etc.; or it could be associated with a role that you occupy (e.g. “athlete,” “student,” “middle child”, “geek”, etc.). Then answer the following questions:

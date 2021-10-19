@@ -7,6 +7,9 @@ draft: 0
 show_schedule: 1
 group: 2
 due_date: 2021-10-14
+slides:
+    - url: https://docs.google.com/presentation/d/18sxuT3iF-_GP_ReX-rXW2O6Zfcw7bzn9PMdrZebUo1A/edit?usp=sharing
+      title: Categories & Classification Systems
 readings:
     - title: Chapter 1. How Stratification Works
       author: Massey, Douglas
