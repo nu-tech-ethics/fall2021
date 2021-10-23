@@ -3,7 +3,7 @@ layout: module
 num: 11
 title: Privacy / Surveillance
 type: lecture
-draft: 1
+draft: 0
 group: 3
 due_date: 2021-10-26
 show_schedule: 1
@@ -23,5 +23,5 @@ readings:
 
 ---
 
-TBD
+
 

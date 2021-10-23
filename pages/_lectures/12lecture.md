@@ -1,13 +1,19 @@
 ---
-layout: lecture-two-column
+layout: module
 num: 12
 title: "Platforms: with guest speaker Deepa Seetharaman from the Wall Street Journal"
 type: lecture
-draft: 1
+draft: 0
 group: 3
 show_schedule: 1
 due_date: 2021-10-28
 readings:
+    - title: Facebook’s Documents About Instagram and Teens, Published
+      url: https://www.wsj.com/articles/facebook-documents-instagram-teens-11632953840?mod=article_inline
+      author: Wall Street Journal Staff
+      source: The Wall Street Journal
+      date: Sept. 29, 2021
+      notes: "From Deepa: Please read at least a few of these documents. They are the underlying documents that informed the second story on teens and research."
     - title: "The Facebook Files (Pick 2 to Read)"
       url: https://www.wsj.com/articles/the-facebook-files-11631713039
       source: The Wall Street Journal
@@ -28,5 +34,10 @@ readings:
       author: Gillespie, T.
       date: 2010
       optional: 1
+
 ---
-TBD
+
+## Discussion Questions
+* What are the ethical obligations of a platform to society? 
+* What kinds of regulatory measures do Maréchal & Roberts propose?
+* What is content moderation alone not enough?
