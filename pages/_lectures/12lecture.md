@@ -23,6 +23,16 @@ readings:
       authors: Maréchal, Nathalie & Roberts Biddle, Ellery
       source: Open Technology Institute
       date: 2020
+    - title: Facebook whistleblower Frances Haugen tells lawmakers that meaningful reform is necessary ‘for our common good’
+      url: https://www.washingtonpost.com/technology/2021/10/05/facebook-senate-hearing-frances-haugen/
+      date: Oct. 5, 2021
+      source: Washington Post
+      optional: 1
+    - title: SNL Spoof on Congressional Hearing
+      url: https://www.youtube.com/watch?v=KwUkFly-xQU
+      source: Saturday Night Live
+      date: Oct. 10, 2021
+      optional: 1
     - title: The Great Hack
       url: https://www.thegreathack.com/
       source: Netflix
