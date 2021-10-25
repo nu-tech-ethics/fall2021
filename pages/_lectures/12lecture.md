@@ -33,6 +33,11 @@ readings:
       date: Oct. 5, 2021
       source: Washington Post
       optional: 1
+    - url: https://techworkerhandbook.org/stories/
+      title: "Tech Worker's Handbook: Blowing the Whistle"
+      source: Tech Worker's Handbook
+      date: n.d.
+      optional: 1
     - title: SNL Spoof on Congressional Hearing
       url: https://www.youtube.com/watch?v=KwUkFly-xQU
       source: Saturday Night Live
