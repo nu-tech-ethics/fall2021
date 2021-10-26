@@ -5,24 +5,11 @@ abbreviation: Journal 6
 type: identity
 due_date: 2021-10-26
 ordering: 1
-draft: 1
+draft: 0
 ---
 
-We know that all people have biases – whether conscious or unconscious – and that these biases can have serious consequences for people’s lives (e.g. being offered/denied an opportunity, being unfairly targeted, etc.). 
+Benjamin argues on p. 111 that **“We do not all experience the dangers of exposure in equal measure.”** In other words, the benefits and harms of surveillance regimes are not evenly distributed.
 
-{:.blockquote-no-margin}
-> Adding to the pile of evidence: <a href="https://www.smith.edu/sites/default/files/media/Francis_Counselors_BEJEAP_0.pdf" target="_blank">this study</a> (2019) has been circulating on the Internet recently -- which found that school guidance counselors systematically under-refer high school students who are black and female to A.P. Calculus.
-
-Many new technologies have emerged that claim to mitigate human bias. However, Benjamin shows us (on pp. 140-143 and elsewhere) how these supposedly more objective technologies can and do still discriminate (and sometimes make things worse).
-
-This raises the question: don't algorithms and computer-mediated systems also have the potential to lead to *more just and fair decisions*? Can't computers help us formalize better rules and procedures to help us act in ways that promote important social values?
-
-What do you think? Can technology help us be less biased and more fair?
-
-* If yes, how? And what do you think is getting in the way?
-* If no, explain why this is the wrong way of thinking about the role of technology and society?
-
-...and if you have time (optional), what do you think Ruha Benjamin would say to the "we can make the algorithms more fair" assertion?
-
-When you’re done, paste your response from the Google Doc into the Canvas Assignment.
-
+* Think of all of the ways that your data / likeness / location / conversations are captured in the many systems, apps, cameras, surveillance systems that surround us all.
+* Then, think of an example of how any of these systems and the data they collect might (a) help you and/or (b) hurt you.
+* How might experiences of benefit and harm differ for someone belonging to a more vulnerable social category?
