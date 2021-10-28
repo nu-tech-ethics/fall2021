@@ -7,6 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2021-10-28
+slides:
+    - url: https://docs.google.com/presentation/d/17BHDRJeAKHYl10tcCHS72Ni5OKdpxd492YPh1TnGQv0/edit?usp=sharing
+      title: The Facebook Files
 readings:
     - title: Facebook’s Documents About Instagram and Teens, Published
       url: https://www.wsj.com/articles/facebook-documents-instagram-teens-11632953840?mod=article_inline
