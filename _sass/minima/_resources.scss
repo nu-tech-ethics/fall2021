@@ -23,6 +23,9 @@
         text-align: left;
         font-size: 1em;
     }
+    table td:first-child, table th:first-child {
+        min-width: 160px;
+    }
 
     th {
         /* For sticky headers */
