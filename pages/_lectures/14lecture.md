@@ -3,7 +3,7 @@ layout: lecture-two-column
 num: 14
 title: "Data"
 type: lecture
-draft: 1
+draft: 0
 show_schedule: 1
 group: 3
 due_date: 2021-11-04

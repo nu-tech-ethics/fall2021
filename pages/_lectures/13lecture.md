@@ -3,7 +3,7 @@ layout: lecture-two-column
 num: 13
 title: "The Internet"
 type: lecture
-draft: 1
+draft: 0
 group: 3
 show_schedule: 1
 due_date: 2021-11-02
