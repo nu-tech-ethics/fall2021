@@ -1,7 +1,7 @@
 ---
 layout: assignment-two-column
-title: Discussion 5
-abbreviation: Discussion 5
+title: Discussion 6
+abbreviation: Discussion 6
 due_date: 2021-10-28
 type: response
 ordering: 1
