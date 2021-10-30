@@ -1,5 +1,5 @@
 ---
-layout: lecture-two-column
+layout: module
 num: 14
 title: "Data"
 type: lecture
@@ -13,6 +13,13 @@ readings:
       source: Atlas of AI
       author: Crawford, Kate 
       date: 2021
+    - title: Introduction. Why Data Science Needs Feminism
+      url: https://data-feminism.mitpress.mit.edu/
+      source: Data Feminism
+      authors: D'Ignazio, Catherine & Klein, Lauren
+      date: 2020
+      published: MIT Press
+      notes: Read the introduction, but please also skim the chapter titles to get a sense of the book.
     - title: "Provocations for big data: Provocations for a cultural, technological, and scholarly phenomenon"
       url: https://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878
       authors: boyd, danah and Crawford, Kate 
@@ -21,7 +28,7 @@ readings:
       optional: 1
 ---
 
-Ideas to cover: 
+<!-- Ideas to cover: 
 ## Databases
 * Why are they useful? 
 * It used to be the case that...
@@ -51,4 +58,4 @@ There's a common trope of "from data -> information -> knowledge" but many schol
 ### New Statistical and Computational Methods
 New computational methods on a range of new data sources have powered many new types of applications:
     * Widespread use of statistics and data-driven algorithmic methods (ML) over user-generated data at an unprecedented size and a scale
-    * From mostly descriptive to leveraging correlations to derive features, classify entities, and make predictions about behavior: ML / Data Science
+    * From mostly descriptive to leveraging correlations to derive features, classify entities, and make predictions about behavior: ML / Data Science -->

@@ -64,13 +64,13 @@ layout: default
                     {% assign className = "lab" %}
                 {% endif %}
                 {% if lecture.draft == 1 %}
-                    <h4>
+                    <h4 class="anchor" id="lecture_{{lecture.num}}">
                         {% if lecture.type == 'lab' %}
                             {{prefix}}:
                         {% endif %}
                         {{ lecture.title}}</h4>
                 {% else %} 
-                    <h4>
+                    <h4 class="anchor" id="lecture_{{lecture.num}}">
                         <a class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
                             {{ prefix }} <i class="fa fa-link"></i>
                         </a>
