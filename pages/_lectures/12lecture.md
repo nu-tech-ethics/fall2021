@@ -51,7 +51,7 @@ readings:
       source: Netflix
       date: 2019
       optional: 1
-    - url: https://journals.sagepub.com/doi/abs/10.1177/1461444809342738
+    - url: https://canvas.northwestern.edu/files/12379346/download?download_frd=1
       title: The politics of ‘platforms’
       source: New Media & Society 12(3), 347-364
       author: Gillespie, T.
