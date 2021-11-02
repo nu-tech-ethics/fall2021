@@ -49,6 +49,9 @@ readings:
       date: June, 2014
       author: Lee, Timothy
       optional: 1
+slides: 
+    - url: https://docs.google.com/presentation/d/14QGn9z05CfI3wzofLA19PW1irc15SbnZfGQSWGRPNmY/edit?usp=sharing
+      title: The Internet
 
 ---
 
