@@ -26,6 +26,9 @@ readings:
       source: "Information, Communication & Society"
       date: May, 2012
       optional: 1
+slides: 
+    - url: https://docs.google.com/presentation/d/1nGHR9mqNWXKh_1GP_YCy1F-7muUL9ZpHOVpjUAUK4IE/edit?usp=sharing
+      title: The Internet Continued; Data
 ---
 
 <!-- Ideas to cover: 
