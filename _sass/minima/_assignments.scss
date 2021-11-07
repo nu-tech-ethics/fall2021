@@ -7,15 +7,19 @@
         "bottom";
 }
 
-.assignments {
+.assignments, .schedule {
     .passed {
         background: #F9F9F9;
+        h1, h2, h3, h4 {
+            color: #AAA;
+        }
     }
 }
 
 .assignments, .lectures, .readings, .syllabus, .schedule {
     .passed {
         color: #AAA;
+        background: #F9F9F9;
         .hw, a.hw, 
         .pj, a.pj, 
         .lec, a.lec, 
@@ -23,6 +27,9 @@
         .ec, a.ec {
             // opacity: 0.6;
             background: #BBB;
+        }
+        h1, h2, h3, h4, td, li, a, em {
+            color: #999;
         }
     }
 }
