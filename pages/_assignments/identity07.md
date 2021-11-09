@@ -1,7 +1,7 @@
 ---
 layout: assignment
-title: "Identity Journal 6"
-abbreviation: Journal 6
+title: "Identity Journal 7"
+abbreviation: Journal 7
 type: identity
 due_date: 2021-11-02
 ordering: 1
