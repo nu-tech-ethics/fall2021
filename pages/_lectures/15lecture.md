@@ -7,6 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2021-11-09
+slides:
+    - url: https://docs.google.com/presentation/d/1IQ4KUKo1fUiCYzW3hzRTTZx4faq4PKj2LwwkQklGpR8/edit?usp=sharing
+      title: Algorithms
 readings:
     - title: Coded Bias
       author: Kantayya, Shalini
