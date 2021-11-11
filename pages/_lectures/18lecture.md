@@ -1,6 +1,6 @@
 ---
 layout: lecture-two-column
-num: 10
+num: 18
 title: Labor
 type: lecture
 draft: 1
