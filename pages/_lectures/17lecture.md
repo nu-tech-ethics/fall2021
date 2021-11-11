@@ -29,4 +29,4 @@ readings:
       optional: 1
 ---
 
-Today's class will be virtual, on Zoom. <a href="https://richmondywong.com/" target="_blank">Richmond Wong</a> will be joining us. Richmond's research examines how technology professionals attend to and address ethical issues in their work. He also develops design-centered methods and approaches to identify ethical issues related to technology (particularly those surrounding social values such as privacy and security) with diverse stakeholders and users.
+Today's class will be virtual, on  <a href="https://northwestern.zoom.us/j/97111290213" target="_blank">Zoom</a> (<a href="https://northwestern.zoom.us/j/97111290213" target="_blank">https://northwestern.zoom.us/j/97111290213</a>). <a href="https://richmondywong.com/" target="_blank">Richmond Wong</a> will be joining us. Richmond's research examines how technology professionals attend to and address ethical issues in their work. He also develops design-centered methods and approaches to identify ethical issues related to technology (particularly those surrounding social values such as privacy and security) with diverse stakeholders and users.
