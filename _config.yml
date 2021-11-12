@@ -31,7 +31,7 @@ exclude:
   - _lectures/drafts
   - _lectures/drafts/winter2021
   - _assignments/drafts
-  - course-files
+  # - course-files
 
 timezone: "America/Chicago"
 # Build settings

@@ -7,6 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2021-11-11
+slides:
+    - title: Design Justice
+      url: https://docs.google.com/presentation/d/1qAkCAuCLQQxLrw4F7RR_BNUNqFOaaN5qmNmJLny3pco/edit?usp=sharing
 readings:
     - title: "Design Practices: “Nothing about Us without Us”"
       url: https://design-justice.pubpub.org/pub/cfohnud7/release/2
@@ -25,7 +28,7 @@ readings:
       url: https://reboothq.substack.com/p/manifesto
       author: Sun, Jasmin
       source: Reboot (Kernel Magazine)
-      date: September, 2020
+      date: September, 2021
       optional: 1
 
 

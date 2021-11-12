@@ -9,11 +9,16 @@ show_schedule: 1
 due_date: 2021-11-16
 readings:
     - title: "Real-Fictional Entanglements: Using Science Fiction and Design Fiction to Interrogate Sensing Technologies"
-      url: https://escholarship.org/uc/item/20d9f3q3
+      url: https://escholarship.org/uc/item/7r229796
       author: Wong, Richmond; Van Wyk, Ellen; and Pierce, James
       date: June, 2017
       source: Dis
       notes: Methods for helping everyday people think about values in technology
+    - title: "Design Fiction Workbook"
+      url: /fall2021/course-files/lectures/circleWorkbookSupplementalMaterials.pdf
+      author: Wong, Richmond; Van Wyk, Ellen
+      date: June, 2017
+      notes: Supplemental Workbook for "Real-Fictional Entanglements" paper
     - title: "Timelines: A World-Building Activity for Values Advocacy"
       url: https://escholarship.org/uc/item/20d9f3q3
       author: Wong, Richmond; Nguyen, Tonya
