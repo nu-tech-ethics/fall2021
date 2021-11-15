@@ -22,6 +22,12 @@ readings:
       date: June, 2021
       author: The Gravel Institute
       source: The Gravel Institute
+    - url: https://www.latimes.com/local/lanow/la-me-ab626-immigrants-reality-20190218-htmlstory.html
+      title: "Column: This new California law is supposed to protect immigrant home cooks. It may help tech giants instead"
+      author: Shyong, Frank
+      date: Feb., 2019
+      optional: 1
+      source: LA Times
     - url: https://drive.google.com/file/d/190soX6YVVHyD9N1xhxfLSqMELabfiP3F/view
       title: Seasonal Associate (account of Amazon warehouse worker, ideal to read p. 9-109)
       author: Geissler, Heike
