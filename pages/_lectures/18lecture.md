@@ -5,6 +5,7 @@ title: Labor
 type: lecture
 draft: 0
 group: 4
+show_schedule: 1
 due_date: 2021-11-18
 readings:
     - title: Chapter 2. Labor
