@@ -7,6 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2021-11-16
+slides:
+    - title: "Speculative Design"
+      url: https://docs.google.com/presentation/d/1Sh1K8-fiOIVNv24vRoRwQBR1Pya6ZCQ6RveMr9-PvTc/edit?usp=sharing
 readings:
     - title: "Real-Fictional Entanglements: Using Science Fiction and Design Fiction to Interrogate Sensing Technologies"
       url: https://escholarship.org/uc/item/7r229796
