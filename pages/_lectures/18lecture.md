@@ -9,7 +9,7 @@ show_schedule: 1
 due_date: 2021-11-18
 readings:
     - title: Chapter 2. Labor
-      url: https://canvas.northwestern.edu/files/12037389/download?download_frd=1
+      url: https://canvas.northwestern.edu/files/12037390/download?download_frd=1
       source: Atlas of AI
       author: Crawford, Kate 
       date: 2021
