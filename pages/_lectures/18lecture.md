@@ -7,6 +7,9 @@ draft: 0
 group: 4
 show_schedule: 1
 due_date: 2021-11-18
+slides:
+    - url: https://docs.google.com/document/d/1KgRCd1OsTXddtVVchS1hVlAXbrhO9bqOTON_5M6UfJw/edit?usp=sharing
+      title: Discussion Questions
 readings:
     - title: Chapter 2. Labor
       url: https://canvas.northwestern.edu/files/12037390/download?download_frd=1
