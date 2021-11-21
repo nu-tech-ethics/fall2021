@@ -18,6 +18,7 @@ readings:
       date: November, 2021
       source: NYTimes
       author: Dionne Searcey, Michael Forsythe and Eric Lipton
+      notes: "How to access the NYTimes for free through the Nortwestern Library: <a href='https://library.northwestu.edu/nytimes/' target='_blank'>https://library.northwestu.edu/nytimes/</a>"
      
 
 ---
