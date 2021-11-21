@@ -15,7 +15,7 @@ readings:
     - title: "A Power Struggle Over Cobalt Rattles the Clean Energy Revolution"
       url: https://www.nytimes.com/2021/11/20/world/china-congo-cobalt.html
       optional: 1
-      date: November, 2020
+      date: November, 2021
       source: NYTimes
       author: Dionne Searcey, Michael Forsythe and Eric Lipton
      
