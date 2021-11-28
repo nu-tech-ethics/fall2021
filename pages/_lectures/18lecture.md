@@ -11,11 +11,6 @@ slides:
     - url: https://docs.google.com/document/d/1KgRCd1OsTXddtVVchS1hVlAXbrhO9bqOTON_5M6UfJw/edit?usp=sharing
       title: Discussion Questions
 readings:
-    - title: Chapter 2. Labor
-      url: https://canvas.northwestern.edu/files/12037390/download?download_frd=1
-      source: Atlas of AI
-      author: Crawford, Kate 
-      date: 2021
     - url: https://www.youtube.com/watch?v=OjW6ZZuJ4w4
       title: How Uber Is Scamming You
       date: May, 2021

@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: "Identity Journal 9"
 abbreviation: Journal 9
 type: identity
-due_date: 2021-11-23
+due_date: 2021-11-30
 ordering: 1
 draft: 0
 ---
