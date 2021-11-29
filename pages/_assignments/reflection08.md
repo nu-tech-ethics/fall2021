@@ -4,6 +4,7 @@ title: Discussion 8
 abbreviation: Discussion 8
 due_date: 2021-11-11
 type: response
+due_time: 11AM
 ordering: 1
 draft: 0
 ---

@@ -4,7 +4,7 @@ title: "Discussion 2"
 abbreviation: Discussion 2
 type: response
 due_date: 2021-09-30
-due_time: 2PM
+due_time: 11AM
 ordering: 1
 draft: 0
 ---

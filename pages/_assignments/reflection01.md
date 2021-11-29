@@ -5,7 +5,7 @@ abbreviation: Discussion 1
 # external_url: https://canvas.northwestern.edu/courses/130544/discussion_topics/880164
 type: response
 due_date: 2021-09-23
-due_time: 2PM
+due_time: 11AM
 ordering: 1
 draft: 0
 ---

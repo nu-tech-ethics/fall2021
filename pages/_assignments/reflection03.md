@@ -4,7 +4,7 @@ title: Discussion 3
 abbreviation: Discussion 3
 type: response
 due_date: 2021-10-07
-due_time: 2PM
+due_time: 11AM
 ordering: 1
 draft: 0
 ---

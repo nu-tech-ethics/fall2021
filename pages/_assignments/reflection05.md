@@ -4,6 +4,7 @@ title: Discussion 5
 abbreviation: Discussion 5
 due_date: 2021-10-21
 type: response
+due_time: 11AM
 ordering: 1
 draft: 0
 ---

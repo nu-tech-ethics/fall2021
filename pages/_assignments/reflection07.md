@@ -4,6 +4,7 @@ title: Discussion 7
 abbreviation: Discussion 7
 due_date: 2021-11-04
 type: response
+due_time: 11AM
 ordering: 1
 draft: 0
 ---
