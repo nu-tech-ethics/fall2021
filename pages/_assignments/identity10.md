@@ -1,15 +1,12 @@
 ---
-layout: lecture-two-column
-num: 21
-title: Course Synthesis
-type: lecture
-draft: 0
-group: 4
-# show_schedule: 1
+layout: assignment-two-column
+title: "Identity Journal 10"
+abbreviation: Journal 10
+type: identity
 due_date: 2021-12-02
-
+ordering: 1
+draft: 0
 ---
-
 
 <style>
     .spacing-in-between li {
@@ -17,6 +14,7 @@ due_date: 2021-12-02
     }
 </style>
 
+## Where do we go next?
 
 In this class, we've read about a variety of dilemmas (many of which have always been with us), and some of the ways in which technologies can amplify, reify, shift, etc. these dilemmas. This has included examining:
 
@@ -26,7 +24,7 @@ In this class, we've read about a variety of dilemmas (many of which have always
 For this final identity journal reflection, I'd like you to put yourself into the "social construction of technology" camp, and take seriously the possibility that technologies (broadly construed as technologies and social systems more broadly) can be recalibrated and redirected in many different ways to shape many different possible outcomes. From this perspective, please:
 
 1. Pick an article (suggestions below) that connects to and tries to address a problem that you care about, and
-2. Write a final Identity Journal reflection to think about how these ideas might inform your work going forward.
+2. Answer series of questions to articulate your own position (see below):
 
 ### Step 1: Pick an article / lecture to read (or revisit) from the list below
 
@@ -45,6 +43,14 @@ Try to pick a reading that inspires you (and if none of these do, find one that 
 * **[Read]**. Fjeld, et al (Jan 2020, Berkman Klein Center Research Publication): [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482).
 * **[OR]** pick your own "solutions piece" — find something that inspires you.
 
-### Step 2: Final Identity Journal Entry
+### Step 2: Answer the following questions
+Shoot for about a page (stream of conscience writing is totally fine)...
 
-Write your [final identity journal reflection](/fall2021/assignments/identity10)
+{:.spacing-in-between}
+1. Why did you pick this article?
+1. What is one of the core problems / challenges that the article examines?
+1. In your view, what are some of the root causes of the challenge(s) identified in #2? In other words, why does this problem exist?
+1. Describe one or more of the solutions named in the article — and consider the strengths and limitations of the solution(s) offered. In addition, if you have your own ideas re: solutions that are not taken up in the article, share them here.
+1. In your view, what powers do you have at your disposal, as an individual, to address the problem?
+1. What power do we have as a society (e.g. via law & policy, non-profits, collective action campaigns, etc.) to make progress on this problem?
+1. Going forward, in what ways do you envision yourself engaging with this problem (or related ones) in your career (and in your life)?
