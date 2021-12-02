@@ -1,11 +1,14 @@
 ---
-layout: lecture-two-column
+layout: module
 num: 21
 title: Course Synthesis
 type: lecture
 draft: 0
 group: 4
-# show_schedule: 1
+show_schedule: 1
+slides: 
+    - url: https://docs.google.com/presentation/d/1B8APWjJ8LcpIw6UNwaexDLfacsm3cUVjvlD7CnQME2g/edit?usp=sharing
+      title: "Last class"
 due_date: 2021-12-02
 
 ---
