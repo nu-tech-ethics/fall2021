@@ -58,6 +58,6 @@ sass:
   style: compact
   sass_dir: _sass
 
-deadline_reminder: true
+deadline_reminder: false
 
 
