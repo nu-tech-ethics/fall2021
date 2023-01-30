@@ -27,6 +27,9 @@ To accomplish this, we will engage in critical reading across a range of topics 
 
 The course is open to all students. For CS majors, minors, and graduate students, the course aims to help students to consider and grapple with ethical dimensions of their work, in order to inform a more critical technical practice. For students coming into the class from other disciplinary vantage points, the course aims to provide a solid foundation for thinking about the possibilities, risks, and impacts of computer-mediated infrastructures on society.
 
+## Acknowledgements
+This course was originally developed in collaboration with Dr. Sepehr Vakil and Natalie Melo.
+
 ## Course Format
 The course format will consist of:
 1. Readings and in-class discussions.
